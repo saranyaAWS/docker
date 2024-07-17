@@ -43,3 +43,42 @@ git push origin master
 nano file
 git add . && git commit -m "second"
 git push origin master
+mkdir jenkins
+touch one
+nano one
+git init
+git add . && git commit -m"jenkins"
+git remote add origin https://github.com/saranyaAWS/docker.git
+git push origin master
+cd 
+mkdir folder
+touch file2
+nano file2
+cat file2
+git add .&& git commit -m "thrid commit"
+git add .
+git add
+clear
+sudo su
+mkdir working
+touch directory
+nano directory
+cat directory
+git add.
+ls
+switch out pipeline
+git init
+cd
+mkdir acess
+touch acess1
+nano acess1
+git init 
+sudo su
+where git
+git
+yum install git -y
+sudo install git -y
+sudo install git 
+sudo apt install git 
+git path
+where git
